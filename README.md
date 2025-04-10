@@ -1,4 +1,11 @@
 # 📘 DocumentDB Developer Course
+<p align="center">
+  <a href="https://aka.ms/documentdb_github">📦 GitHub Repo</a> •
+  <a href="https://aka.ms/documentdb_wiki">📖 Wiki</a> •
+  <a href="https://aka.ms/documentdb_discord">💬 Join Discord</a>
+</p>
+
+---
 
 Welcome to the **DocumentDB Developer Course** — a hands-on walkthrough designed to teach developers how to build, query, scale, and expose PostgreSQL-based JSON document stores using Microsoft DocumentDB.
 
