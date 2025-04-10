@@ -84,5 +84,5 @@ In Module 3, we’ll explore how to use SQL to perform analytics on the JSON dat
 
 ---
 
-[⬅️ Back to Module 1](./README.md) &nbsp;&nbsp;&nbsp; [➡️ Go to Module 3](./module-3-aggregations.md)
+[⬅️ Back to Module 1](./module-1-start.md) &nbsp;&nbsp;&nbsp; [➡️ Go to Module 3](./module-3-aggregations.md)
 
