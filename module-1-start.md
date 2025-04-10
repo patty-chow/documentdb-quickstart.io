@@ -103,13 +103,4 @@ GROUP BY order_data->>'status';
 
 ---
 
-[➡️ Go to Module 2](./module-2-updating-jsonb.md)
-
----
-## 📄 License
-
-MIT License. See `LICENSE` file.
-
-## 🙋‍♀️ Questions?
-
-Feel free to open an issue or contribute improvements!
+[⬅️ Back to Home](./README.md) &nbsp;&nbsp;&nbsp; [➡️ Go to Module 2](./module-2-updating-jsonb.md)
